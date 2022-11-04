@@ -1,5 +1,5 @@
 # 💡 Projeto Página incial do Spotify
-> O projeto consiste em recriar a página Oficial do site Spotify completamente Responsivo utilizando somente imagens do próprio site como material de
+> O projeto consiste em recriar a página Oficial do site Spotify. O projeto é completamente responsivo e é utilizando somente imagens do próprio site como material de
 complemento
 ![Screenshot_1](https://user-images.githubusercontent.com/110859302/199860544-68419a68-5203-40df-963a-64227246d8b7.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/110859302/199860555-db0a4c1e-ba2c-4ced-b8ed-8a604ab78ca2.png)
